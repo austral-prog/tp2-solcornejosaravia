@@ -6,6 +6,6 @@ def ada():
     print(full_name.title())
     print(full_name.upper())
 
-    sangria=f'\t{full_name}'
+    sangria = f'\t{full_name}'
     print(sangria.lower())
 ada()
